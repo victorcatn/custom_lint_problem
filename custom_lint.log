@@ -1,0 +1,22 @@
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      _SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:490:11)
+#1      _rootRunUnary (dart:async/zone.dart:1406:47)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1307:19)
+<asynchronous suspension>
+#3      Future.any.onValue (dart:async/future.dart:612:5)
+<asynchronous suspension>
+
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      _SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:490:11)
+#1      _rootRunUnary (dart:async/zone.dart:1406:47)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1307:19)
+<asynchronous suspension>
+#3      Future.any.onValue (dart:async/future.dart:612:5)
+<asynchronous suspension>
+
